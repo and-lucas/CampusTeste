@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\satc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_95123c327e7192663d934e4420abcf4951aeaebd.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_3da743e9aeb4dd66e0d46aafd6cb0f70104197d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ee1f9cefa0dc51fb2355f1563baf4fee41292613.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_ed5d05fc81b98a44d79963ea276b89d839005fa3.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_67a0a677fe9a7763c7cfbda0b659a3c0a6c9b6d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cc398e402edbb0ce5a5d5b979744d505b516c396">
+        <dex dex="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_601e36a4cdd068b52ccb2a7eb46d5786c88e4072.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_420bbd5c966306dd1d2807a170a4e1c0b1efc249.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_032d5a40f7fd0dfbb95eb90e8c06f8bc17771e39.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_bdd5672b725e62b6502a0a3a0c6cec00517c8637.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2385e6fa202f5086ac9fb204056ab24f3a29ea70">
+        <dex dex="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_f98bceb59ccb071463ab2a29de2df56ef61aa132.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\satc\Desktop\Campus\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_ed55de937e216749c29f24fdf30d1cf2509dca0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_52e9e0e275c4a591c7b3cd6af7cf298be6631c9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\satc\Desktop\Campus16-02\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5a58b3a9b39e5c60476881efd2e18ce529659788.jar" />
+    </item>
+
+</items>
